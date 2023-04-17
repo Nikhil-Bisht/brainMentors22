@@ -1,7 +1,7 @@
 package brainmentors.java;
 
 import java.util.Scanner;
-
+// modified for unerstaning git pull and push
 public class ArmstrongNum {
     public static void main(String[] args) {
       int result = 0;
