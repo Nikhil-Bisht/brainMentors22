@@ -1,5 +1,5 @@
 package brainmentors.java;
-
+//modified
 public class factorialNum {
     public static void main(String[] args) {
         int  n=5;  int result= 1;
